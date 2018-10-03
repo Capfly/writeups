@@ -1,0 +1,3 @@
+Points: 5*100
+We found a site that is vulnerable to XSS but it seems to contain some filters that make it hard to exploit it.
+Can you find a way around the filters?

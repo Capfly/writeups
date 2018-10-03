@@ -1,0 +1,2 @@
+Points: 50
+Can you decrypt this zip file? The password should occur in standard wordlists such as "rockyou".

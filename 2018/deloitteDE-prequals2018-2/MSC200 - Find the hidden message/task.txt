@@ -1,0 +1,2 @@
+Points: 200
+Extract the hidden message from this text.

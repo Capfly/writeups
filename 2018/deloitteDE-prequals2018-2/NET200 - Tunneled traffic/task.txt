@@ -1,0 +1,2 @@
+Points: 200
+We believe someone used some strange tunneling techniques to exfiltrate data from the network. Can you reconstruct that data?
