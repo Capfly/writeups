@@ -1,0 +1,4 @@
+If you can read this you managed to crack the password of the zip file.
+
+Here is a nice flag for you:
+CTF{1aa4c84b1ff9f21ce476ff50c7d0fe74}
